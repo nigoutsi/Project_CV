@@ -1,0 +1,64 @@
+ Method [0] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 1.000000, 	0.928452,   0.944819, 	  0.936559, 	0.947809, 	0.951749 
+ Method [1] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 0.000000, 	15447.971550,   12483.261607, 	  19362.887405, 	14778.275993, 	16474.212861 
+ Method [2] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 80018.000000, 	61848.000000,   63958.000000, 	  66177.000000, 	68867.000000, 	68633.000000 
+ Method [3] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 0.000000, 	0.180906,   0.158310, 	  0.167757, 	0.143674, 	0.141611 
+ Method [0] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 1.000000, 	0.928452,   0.944819, 	  0.936559, 	0.947809, 	0.951749 
+ Method [1] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 0.000000, 	15447.971550,   12483.261607, 	  19362.887405, 	14778.275993, 	16474.212861 
+ Method [2] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 80018.000000, 	61848.000000,   63958.000000, 	  66177.000000, 	68867.000000, 	68633.000000 
+ Method [3] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 0.000000, 	0.180906,   0.158310, 	  0.167757, 	0.143674, 	0.141611 
+ Method [0] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 1.000000, 	0.928452,   0.944819, 	  0.936559, 	0.947809, 	0.951749 
+ Method [1] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 0.000000, 	15447.971550,   12483.261607, 	  19362.887405, 	14778.275993, 	16474.212861 
+ Method [2] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 80018.000000, 	61848.000000,   63958.000000, 	  66177.000000, 	68867.000000, 	68633.000000 
+ Method [3] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 0.000000, 	0.180906,   0.158310, 	  0.167757, 	0.143674, 	0.141611 
+ Method [0] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 1.000000, 	0.928452,   0.944819, 	  0.936559, 	0.947809, 	0.951749 
+ Method [1] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 0.000000, 	15447.971550,   12483.261607, 	  19362.887405, 	14778.275993, 	16474.212861 
+ Method [2] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 80018.000000, 	61848.000000,   63958.000000, 	  66177.000000, 	68867.000000, 	68633.000000 
+ Method [3] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 0.000000, 	0.180906,   0.158310, 	  0.167757, 	0.143674, 	0.141611 
+ Method [0] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 1.000000, 	0.928452,   0.944819, 	  0.936559, 	0.947809, 	0.951749 
+ Method [1] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 0.000000, 	15447.971550,   12483.261607, 	  19362.887405, 	14778.275993, 	16474.212861 
+ Method [2] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 80018.000000, 	61848.000000,   63958.000000, 	  66177.000000, 	68867.000000, 	68633.000000 
+ Method [3] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 0.000000, 	0.180906,   0.158310, 	  0.167757, 	0.143674, 	0.141611 
+ Method [0] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 1.000000, 	0.928452,   0.944819, 	  0.936559, 	0.947809, 	0.951749 
+ Method [1] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 0.000000, 	15447.971550,   12483.261607, 	  19362.887405, 	14778.275993, 	16474.212861 
+ Method [2] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 80018.000000, 	61848.000000,   63958.000000, 	  66177.000000, 	68867.000000, 	68633.000000 
+ Method [3] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 0.000000, 	0.180906,   0.158310, 	  0.167757, 	0.143674, 	0.141611 
+ Method [0] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 1.000000, 	0.928452,   0.944819, 	  0.936559, 	0.947809, 	0.951749 
+ Method [1] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 0.000000, 	15447.971550,   12483.261607, 	  19362.887405, 	14778.275993, 	16474.212861 
+ Method [2] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 80018.000000, 	61848.000000,   63958.000000, 	  66177.000000, 	68867.000000, 	68633.000000 
+ Method [3] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 0.000000, 	0.180906,   0.158310, 	  0.167757, 	0.143674, 	0.141611 
+ Method [0] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 1.000000, 	0.928452,   0.944819, 	  0.936559, 	0.947809, 	0.951749 
+ Method [1] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 0.000000, 	15447.971550,   12483.261607, 	  19362.887405, 	14778.275993, 	16474.212861 
+ Method [2] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 80018.000000, 	61848.000000,   63958.000000, 	  66177.000000, 	68867.000000, 	68633.000000 
+ Method [3] Perfect, Base-Test(1), Base-Test(2), Base-Test(3), Base-Test(4), Base-Test(5) :
+ 	 0.000000, 	0.180906,   0.158310, 	  0.167757, 	0.143674, 	0.141611 
